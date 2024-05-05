@@ -20,8 +20,10 @@ This is an End-to-End Machine Learning Project which focuses on phishing website
 - Then We implemented five different ML models:
   - Support Vector Machine
   - Gaussian Naive Bayes
+  - K-Nearest Neighbors
+  - Gaussian Process
   - Decision Tree
-  - Random Forest
+  - Neural Network
   - AdaBoost
 - You can obtain the confusion matrix, and performance measures: accuracy, precision, recall
 - Finally, We visualized the performance measures for all models.
